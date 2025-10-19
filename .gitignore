@@ -1,0 +1,12 @@
+# Java
+*.class
+bin/
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.dat
+*.log
